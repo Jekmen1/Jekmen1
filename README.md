@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [AI-Based Code Quality Review System](https://github.com/Jekmen1/code_quality_review)
 
-- 🌱 I’m currently learning **Celery, Linux**
+- 🌱 I’m currently learning **Celery, Linux, Azure**
 
 - 📫 How to reach me **jekokobakidze@gmail.com**
 
