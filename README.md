@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jekmen1&label=Profile%20views&color=0e75b6&style=flat" alt="jekmen1" /> </p>
 
-- 🔭 I’m currently working on [AI-Based Code Quality Review System](https://github.com/Jekmen1/code_quality_review)
+- 🔭 I’m currently working on [AI-Based Code Quality Review System](https://github.com/Jekmen1/AI-Based-Code-Quality-Review-System)
 
 - 🌱 I’m currently learning **Celery, Linux, Azure**
 
