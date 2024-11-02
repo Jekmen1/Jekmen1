@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm jeko</h1>
-<h3 align="center">A junior back-end developer from Georgia</h3>
+<h3 align="center">A Software Engineer from Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jekmen1&label=Profile%20views&color=0e75b6&style=flat" alt="jekmen1" /> </p>
 
