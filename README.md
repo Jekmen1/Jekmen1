@@ -76,11 +76,7 @@
   </a>
   <a href="https://circleci.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="ci/cd" width="40" height="40"/> 
-  </a>
-  <!-- Updated SQLAlchemy icon -->
-  <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://habrastorage.org/getpro/habr/post_images/44b/d2c/c98/44bd2cc98f2ca6e5d689f21c772ce56e.png" alt="sqlalchemy" width="40" height="40"/> 
-  </a>
+  
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jekmen1&show_icons=true&locale=en&layout=compact" alt="jekmen1" /></p>
