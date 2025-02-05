@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm jeko</h1>
+<h1 align="center">Hi 👋, I'm Jeko</h1>
 <h3 align="center">A Software Engineer from Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jekmen1&label=Profile%20views&color=0e75b6&style=flat" alt="jekmen1" /> </p>
@@ -7,9 +7,7 @@
 
 - 📫 How to reach me **jekokobakidze@gmail.com**
 
-<p align="left"></p>
-
-<h3 align="left">Languages,Frameworks and Tools:</h3>
+<h3 align="left">Languages, Frameworks, and Tools:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
@@ -53,7 +51,6 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
-  <!-- Updated Celery icon -->
   <a href="https://docs.celeryproject.org/en/stable/" target="_blank" rel="noreferrer"> 
     <img src="https://storage.caktusgroup.com/media/blog-images/celery-django-queue-caktus-group.jpg" alt="celery" width="40" height="40"/> 
   </a>
@@ -65,7 +62,7 @@
   </a>
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio" width="40" height="40"/> 
-  </a>
+  </a> 
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
     <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" alt="pycharm" width="40" height="40"/> 
   </a> 
@@ -75,11 +72,15 @@
   <a href="https://circleci.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="ci/cd" width="40" height="40"/> 
   </a>
- 
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/>
+  </a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jekmen1&show_icons=true&locale=en&layout=compact" alt="jekmen1" /></p>
 
-<p><img
 
 
